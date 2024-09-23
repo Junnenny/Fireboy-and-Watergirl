@@ -57,6 +57,7 @@ public class GameSettings : MonoBehaviour
                 }
             }
             settingsCanvas.SetActive(true);
+            FindObjectOfType<GameMenu>().SetSettingsOpen(true);
         }
         else
         {
@@ -75,6 +76,7 @@ public class GameSettings : MonoBehaviour
             {
                 mainCanvas.SetActive(true);
             }
+            FindObjectOfType<GameMenu>().SetSettingsOpen(false);
         }
         else
         {

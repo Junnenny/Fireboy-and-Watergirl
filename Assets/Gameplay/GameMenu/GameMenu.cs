@@ -13,6 +13,7 @@ public class GameMenu : MonoBehaviour
     public Button exitButton;
 
     private bool isPaused = false;
+    private bool isSettingsOpen = false;
 
     public GameSettings gameSettings;
 
@@ -39,7 +40,7 @@ public class GameMenu : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape) && !isSettingsOpen)
         {
             if (isPaused)
             {
@@ -90,6 +91,10 @@ public class GameMenu : MonoBehaviour
     private void OpenSettings()
     {
         gameSettings.OpenSettings();
+    }
+    public void SetSettingsOpen(bool isOpen)
+    {
+        isSettingsOpen = isOpen;
     }
 
     private void ExitGame()
