@@ -1,0 +1,5825 @@
+fileFormatVersion: 2
+guid: 62b5045af1354204abdbee3f16f76b3b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462313ce557ec749a4ff443f73c0bab
+      internalID: 284820840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80f652e32af9f64ba5a0040305d4067
+      internalID: -1201216344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ea1a5927910547bad85170ad452af
+      internalID: 300627264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2012c2d14503fa439832cfeede3d7e8
+      internalID: 1910880518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451eb16a3c21ff64398d1919b08919f6
+      internalID: 2057017379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7804bb63a2b224d83468d1afd30c76
+      internalID: -995365683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_6
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b278026e8566f134db66805ac7a64683
+      internalID: -969902014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21733d6574d37b54884f05a82d696419
+      internalID: -556439393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_8
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad8bbfd78c49348a94be2cc89364f6
+      internalID: -154983263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_9
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e6bafd28b89634b8f67d623443f562
+      internalID: 267657857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_10
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1836
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f87f830349b446968a1f5b257ba9d
+      internalID: 1412249575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_11
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1869
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7d91195c4660b449ff79aba5a05b4c
+      internalID: 1920650050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_12
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1870
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab699e6bfd57e149a6d8ed84e3badc3
+      internalID: -1420037341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_13
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1871
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b68aff87098844cbeb50fe97b7c00e
+      internalID: 664351991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1665
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f788664d132cb4fb96ed8bcd7118f0
+      internalID: 2050190100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bd6229efef8614faf2b715e18ff719
+      internalID: 1581527044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1663
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7001abf86bce14d9116939d161f72c
+      internalID: 129080417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1662
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae22ca33577de847afd72df5bbcddae
+      internalID: 1581316128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_18
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1661
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9833aaab693195c4b96308f6a3f9443d
+      internalID: -1628309290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_19
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1726
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13e966dbcd69be49922f07398fa94e4
+      internalID: 1781002937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_20
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1727
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6360c7e5db1e24ebd9498aeff3ce68
+      internalID: -1952881142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_21
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1727
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e64cb5069ef7a418bc952a6b0fab80
+      internalID: 698923852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_22
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7d46df08e07c243b676772454b70ac
+      internalID: 1326832291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_23
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1628
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ffbcd47f891545814d9fa002ae318
+      internalID: -826702668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_24
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1627
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d6258cda978fd42bb46e12e1861cd4
+      internalID: -381695736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_25
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1628
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e86f92396589554fa6a405621ad5c42
+      internalID: 631894762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_26
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1588
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6404398e1a0754cbce4618617f75ed
+      internalID: -927113542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1482
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b0d5786f35ca44b7b3d76e80d80e3
+      internalID: 1415718990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0fc21b3adf6d741838efef72feeeb3
+      internalID: 1356928494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1482
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9cf2935de35254a914768a74f60dd3
+      internalID: -451565025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1481
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d445a0b5725cae4ebcf909db45333f6
+      internalID: -1081390625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1482
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27710f28084536c42a3b0ae30db46fcc
+      internalID: -988436176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_32
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1482
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e839b377fc4f943b3bfecee7d8b936
+      internalID: -1934103719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_33
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1544
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c42e940c2711247a1010269873b3b8
+      internalID: 1036919723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_34
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1544
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf1f41984ec874ba4a3bd5c0c20ea4
+      internalID: 885229982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_35
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1543
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90e0bd3dd403c94eb07f65c1c0f2c69
+      internalID: -1822724712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_36
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1543
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aceacbb2a2fd04b91da9f4839350ce
+      internalID: -959588121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_37
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1452
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbcdfc3644305e48aff44782d40ad16
+      internalID: -414833158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_38
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1451
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb9e38b279fe054691097bee2486100
+      internalID: -1674802869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_39
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1451
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60ec68a3b13804297380ee4032ada1
+      internalID: -1941432060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_40
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1452
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf88d8f518976c4e90a383ab5bb62af
+      internalID: -400726761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_41
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1391
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac411d5643cc14d87219d4d94f8b9f
+      internalID: 514625415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_42
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1391
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1888028371309164580d75cb94187acb
+      internalID: 2011885858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_43
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1391
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0794c4ae845d5a04a93fd55c959677df
+      internalID: -196431293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_44
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1391
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354748b42723ae43a8a1a09af90fb01
+      internalID: 2411969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_45
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1391
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a7a1edecfd67547acdcac61bfbd0c8
+      internalID: 247664120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1329
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba59ab1ac1803894988b8253746e8937
+      internalID: -1465457599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1329
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ddc539d2904c47adab13f81c43546
+      internalID: -1781772717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1329
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da45c93837f2de43b027ca540db0c5f
+      internalID: 1580436215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_49
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1329
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46910856cf62ae54188d1f114c54e395
+      internalID: -2046853135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_50
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1329
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64dd09a7e6cb594db89b2d160d0dd15
+      internalID: -1264869430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_51
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1329
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcba3789db66e6e47be0c11b143a8606
+      internalID: 315391772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_52
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1299
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697739c0c45640349a9c56f030a32a81
+      internalID: 1784913060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_53
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1299
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f676745c2205d4d8ed7bc2b49c3e17
+      internalID: -1669647133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_54
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1299
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdc04a871fcbf44ba37158e67bf1f27
+      internalID: 1240791900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_55
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1299
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15beba2cc0d1521408cb75df9df439f1
+      internalID: -955125024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_56
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1225
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d2e9eeccec45c4a99d0d08b74aa439
+      internalID: 884000894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_57
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1225
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d508d4c13c907479697c7dce77a41e
+      internalID: 1455613579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_58
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1225
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f686684631ad47a00dfb836b69811
+      internalID: 1690245394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_59
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1225
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895351a58d01eed48933d957d83701f3
+      internalID: 679285397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_60
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1225
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90275a992fdfe9e4abbd18698d63562e
+      internalID: 455448501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1163
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a710583bab5d0e84c9e94335711ae559
+      internalID: 2111394803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1163
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d6924a9542a14aaa5ec47d5c2f776
+      internalID: -1935786459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_63
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1163
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff973cc124e4643b689b07de2d779b
+      internalID: 934804933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1163
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da5bafae9bf324ab5288da470d7ae4
+      internalID: 1513939313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_65
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1163
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c31d44d3c2f2418f726a4fedb1665
+      internalID: -391139804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_66
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1163
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e71e0f48c936e942b2a9569eff9ac5f
+      internalID: 1761458296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_67
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1133
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72cae5330d6cd4ba3888eae4d30199
+      internalID: -677075600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_68
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1133
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9716e61954ba3440b71270c5eaed031
+      internalID: -328874410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_69
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1133
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e4b66413d032743b8efa747195da3e
+      internalID: -2105546354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_70
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1133
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66febcd262ee60d448080bfb514bc6a9
+      internalID: 65512681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1010
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7a3a4ca1e16e4fab9230ea548fd76
+      internalID: -1829704227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_72
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1009
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f209a83a82f1914b8fd783c0c19778a
+      internalID: 1362308964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1009
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241de606522887644ae40444cd2e3ecc
+      internalID: 748649271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_74
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1009
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93541cadd684fa241b6884efddb71b42
+      internalID: -2136111016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_75
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1008
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfdccf5524af25488c55d52bee51f02
+      internalID: -60181111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_76
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1010
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6e2075797bb14f86b083f5340ed68
+      internalID: 1584044327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_77
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1081
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed532fc0cf15f944bb7cbca29d854295
+      internalID: 623661676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_78
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1081
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be627a403fbc6914cb5f11fc34d3fd78
+      internalID: -969816493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_79
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1081
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9749bdb375bc8aa4a837f93e3c70e3f9
+      internalID: -392514045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_80
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1081
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a0c757104fd84ebfc4cdaaeccdcf8
+      internalID: 501822082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_81
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1081
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d273f3989ca124db98b47f2aa9cc46
+      internalID: -462616913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_82
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 980
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d7e1702695c8a4aae57070fe71c97f
+      internalID: -904047040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_83
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 981
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75261464b988ce54c9c99e7513838f93
+      internalID: -1640267507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_84
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 981
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5390f96cb14454c912446df92ebdef
+      internalID: -1704189795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_85
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 982
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c79a4effaee14e4aa0de8396c7a10ce
+      internalID: 1756319355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_86
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 908
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0043e769623484b459354ac2ad72d402
+      internalID: 1431210853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_87
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 908
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b22c07d2268dc843834aea82eb5f8f8
+      internalID: 1346358081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_88
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 908
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e335648d5eaa74b95224fe12cf0e70
+      internalID: -271480761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_89
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 908
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6940168967e8c6048858c17d06221d6d
+      internalID: -863206112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_90
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 908
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b730fbc436574c84debed619335c2
+      internalID: -332854374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 845
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b750a9f68ca95724aaad4086e01d77a5
+      internalID: -710341853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 845
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f34d6da50bc648937bd8ec5184b65
+      internalID: 171076288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_93
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 845
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5693b13b71170cd4cb0ee64f306ddc7f
+      internalID: -461095527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 844
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d771d2b696e71044971b628ff598d00
+      internalID: -323715808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_95
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 854
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8fe838610283f4caf8f5604585a407
+      internalID: -841076342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_96
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 824
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a08005c0409b458efd16a210ebe7c
+      internalID: 281379437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_97
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 824
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee0b91662df4c4d92aea783bb89af2
+      internalID: -105918330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_98
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 824
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f231562767c0c77489361ef88707cbfc
+      internalID: -1539916531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_99
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 825
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01c25d167d1a24fb103cdac08b66d0
+      internalID: 2114718128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_100
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 657
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1c1089be94b08458f5dedfcf0b6a8b
+      internalID: -1705299336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_101
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 657
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97acc1d6d58a9bf46a0ccee4c0b4b0cc
+      internalID: 1758557738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_102
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 657
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b89435466ec7124d907dceedbb28245
+      internalID: -1506709565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_103
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 683
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc1ea37479938419e99a59662cea79
+      internalID: -1834925618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_104
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 720
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3cdc48f77f9ee4aa941413fbb317dc
+      internalID: 713563597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_105
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 690
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fc6b1854ef3ce4bba97eddbd023d12
+      internalID: -1086712062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_106
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 659
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b8f63d1cc080e4f9b8ac87252b2270
+      internalID: 1802347539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_107
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 659
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d0a3ede6ed76b468c80d0d1ec04153
+      internalID: -80206472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_108
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 659
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c39e4fe7bccd4da7c435d8e984aa6
+      internalID: -1538383935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_109
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 751
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23256f4d1fb1b344bb05fba65de4aac4
+      internalID: 1479747297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_110
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 751
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024c5cee4cd02f41bf303796f2cfe81
+      internalID: 1582435281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_111
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 750
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1ec7d9e045f04ea4471d4cc1fa3dc
+      internalID: 526805617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_112
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 750
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f458f7af912fe4f9a66720f56fbc92
+      internalID: 2004290509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_113
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 759
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a657dd137c8c0cc4a9c43f222957e98e
+      internalID: 1009669933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_114
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 754
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5248652fb3c0c164ab9c2ed9b4087273
+      internalID: 772815683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_115
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 753
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f1a66191d397147b095d3557b426e1
+      internalID: 1327630354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_116
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 752
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c7c650421c3544bb7b68ed13b785f1
+      internalID: 784493995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_117
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 577
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a3bc1902225443a7c7e27433e836e
+      internalID: -209609938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_118
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 585
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5f78ad743ad86489a5e2d60c2a8089
+      internalID: 1263273547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_119
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 585
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5746b1e12d1db42448cf47bece174b31
+      internalID: 1922432523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_120
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 585
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c007d8c1dd50f674d86a580aafe85344
+      internalID: 348382906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_121
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 585
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322bc89f13f4f744cb3e3a9b8f8bea98
+      internalID: -1859977054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_122
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 585
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7061e40509acef345a76ac89ba709d5d
+      internalID: 1983567945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_123
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 648
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4457bed5972354a961de0abb513ca9
+      internalID: -1825765468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_124
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 538
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9565753310be7940b601dec06816347
+      internalID: -1010900196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_125
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 537
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922abef81e755d847889a8e92773a98a
+      internalID: 335823349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_126
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 536
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5a9b52e1f35db429c71740564f5f78
+      internalID: 1548241875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_127
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 544
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7259be759485738498fb14134425e536
+      internalID: 1152132067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_128
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 542
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c40f5c57a838e418cf35795f3e9da7
+      internalID: -442356677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_129
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 545
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b663f86e4f36e4394c0a3a636e0a95
+      internalID: -1287588855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_130
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 541
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183034c03f2e4c4c9521c8b10343caa
+      internalID: 55160433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_131
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 537
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989f5ccd20709a14bb0ff145957a743c
+      internalID: 763774761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_132
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 540
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe0d7d3d2c30046ade61083bcc80a7
+      internalID: 1550594968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_133
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 540
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e398d313e027c647ae648489162e49a
+      internalID: 187295843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_134
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 540
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfcf5d298a89d842b481146dd87712f
+      internalID: 1687798905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_135
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 467
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30812286b553d7b42b8b3f79a20a78a6
+      internalID: 1411811916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_136
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 464
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f327fd5b74e6914e86c8c49e203e3eb
+      internalID: -896503461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_137
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 467
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc377476c8fb38847b1565e6292c44d2
+      internalID: 1534749302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_138
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 467
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa496a5917b6d4fae00f8536f172fa
+      internalID: -1493434585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_139
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 469
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddf493471501f845809de4e3e55c1d6
+      internalID: -639322282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_140
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 470
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4a4532d01b51942913e0777f779d2a
+      internalID: -1348420019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_141
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 480
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b051a67094ac44840d1781458aa67
+      internalID: 641041748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_142
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 483
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab4d4bccd5617a449c00a3acf260dcf
+      internalID: 2045196214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_143
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 442
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5af131df500f45850030045e1b505
+      internalID: 738419012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_144
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 446
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da32d7fd0246f45a1410eff95127d5
+      internalID: -884823881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 446
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9caa52a342bf4e933ef59e9bf942b
+      internalID: -1653356987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_146
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 453
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e41245a5a4e242ae1486df17e0064
+      internalID: -164363890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_147
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 458
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394c026b84fd3049b3c5f89cc0ffc5f
+      internalID: 821198241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_148
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 448
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22db9cc0b4e87e4989e0c197f48933f
+      internalID: 1675195878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_149
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 446
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbfcf1828ac1444f957bc5c3006c233
+      internalID: 1907569633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_150
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 456
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e64cb581eb4ec840ad36d0829ba279b
+      internalID: -1308186254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_151
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 453
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c68b56c87cd22418d6c16b3b0d9b8b
+      internalID: -1500827943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_152
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 456
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05cea606bb62bd4aa5fbbbd357a771b
+      internalID: 1647356347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_153
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 453
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1ef36506871574fa514693cc59a7cb
+      internalID: 997005715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_154
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 448
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74383cdc6dfabe408ff4bb1a8cef4d0
+      internalID: 1752941175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_155
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 451
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8910ff1d00633494d9795954831ebb1c
+      internalID: -2136144711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_156
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27645f1b952941b4ba1da59585f9c6b0
+      internalID: -1245176844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_157
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 448
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d48e0dc4de464d9c63ab8deb04a3a
+      internalID: -118334897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_158
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 404
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3f2a61fc6a052458962e1ab63d147a
+      internalID: 281118161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_159
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 401
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb3c8c9539618640be718f5f8313e92
+      internalID: 395597062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_160
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 403
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c82e9023f7e914d8b1183b9c8c4815
+      internalID: -1455284569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_161
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 404
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a403b76b6b59c8345aa87a6967b5c453
+      internalID: 1042076603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_162
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 405
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc72570d55d132945b4827c3f0dfeeea
+      internalID: -755765425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_163
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 408
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c99cf6b73f5a4cae67b72dbc58768
+      internalID: 2111851700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_164
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 412
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a87eea46c19e47a1001d62d97ce51
+      internalID: -537195595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_165
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 408
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b4149d15f0cb14d9d6168a013dd61b
+      internalID: 1545814125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_166
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 410
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0395e9dc9cb9b4e84cccdc801e99da
+      internalID: -1828665596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_167
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 409
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be9f77cde72004b8facc3c0791c75b
+      internalID: -768007764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_168
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 412
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1696712d5ed584e9addf90ef49f434
+      internalID: -1330232618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_169
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 412
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d613f0104d1eb74f91f22ec5e52da61
+      internalID: -1489113461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_170
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 415
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2f7aefaf592e241ba95f7125aaea5f
+      internalID: -635905088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_171
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 417
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c72191c9c0a0644ba70660ba0a08a3a
+      internalID: 988916397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_172
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 418
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190e3929b29d024c89aa250fe39424a
+      internalID: -330280511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_173
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 416
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ebbbd5ec40544f82a0ed47110a14c
+      internalID: 1444316376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_174
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 381
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781b3cb5203c0c740b0f59cd034f9987
+      internalID: -356611199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_175
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 385
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce0ceae930238149af421fd912f7db8
+      internalID: 95998553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_176
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 403
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a301dcffd042b4a499bd1389578792ba
+      internalID: 1816524183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_177
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 391
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac42eacbbaf85704ab6634bf6a731021
+      internalID: -649780219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_178
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 392
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd06dc15089c53e4ea0c143f592b3330
+      internalID: 163154815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_179
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 319
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883a47310143873439cf32c3b3a3cdc7
+      internalID: 1297315892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_180
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 397
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931b73fcba58b0488a796ddd957bcf8
+      internalID: -372375023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_181
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 382
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e216a4951b8e4cb0d668de31b3fe2
+      internalID: 1821294812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_182
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 384
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9f8b826ac7624684aa8c983ab4499
+      internalID: 1730477006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_183
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 388
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5d2937e1588549bcd40754688678a
+      internalID: -779127959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_184
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 392
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fbc2713a62bfb4b838fd54fb815c42
+      internalID: -109753699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_185
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 387
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c02265c25169f4da58baf918dd2e60
+      internalID: 906797510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_186
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 384
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d1a7617ddec974c90940718bc3fd8f
+      internalID: -635037081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_187
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 385
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10179971895ebf54296f519254438620
+      internalID: 1643122146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_188
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 386
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a4a5e69313c8046b6acaaa2e8acb93
+      internalID: -1231929896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_189
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 380
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28da09c153667d4b9fe383a30457412
+      internalID: -1627346876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_190
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 329
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c640c78e4e874ab9a5b95a04ec1f3
+      internalID: -217994936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_191
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72ce438866acc94eba710f86a26da26
+      internalID: 1092676762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_192
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 335
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e35e8bc176514c8811a450f952e65
+      internalID: -2023935188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_193
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 335
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447f56177988f2428d70bdc4b85b85e
+      internalID: -1137499435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_194
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 337
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b380e20b7391488d60318cf136d2c
+      internalID: 561408754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_195
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 337
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4106b3565d75848a24de15f24a5733
+      internalID: 1663805380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_196
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 338
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9579760bca4af3844a2d43e7cfb51c1a
+      internalID: -1470507903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_197
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 337
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29137df99fd900947a3c39fa689c65a5
+      internalID: 1533127574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebba47fe96a425945b6304dfaaca17e2
+      internalID: -494684012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_199
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 224
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952925e4d7ba51c47ba9b3312a32e152
+      internalID: 1073420737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_200
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 229
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd3e062e1bde1046842cc1e201d5fdb
+      internalID: 824986840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_201
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 253
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead9b0aaa53e5f64187f50460abc2ba7
+      internalID: -1848420391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_202
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 257
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e6a0bfddf0ba40b22253581f2806c
+      internalID: -507941403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_203
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 242
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec0d1574fb098041a769e2364952e56
+      internalID: -2056052977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_204
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 241
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962379c67a29fc64f9be4d46a56bba94
+      internalID: -1358353781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_205
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 245
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f417b9a941e0ca1418ecbb0822129261
+      internalID: 1784001920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_206
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 248
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c93af4391f244e8321be40ae013de
+      internalID: -983904081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_207
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 252
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071f86027f3de5d4ca6bf5148b15ea2f
+      internalID: -1951765133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_208
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 229
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b864521e906242af2fb4b6a701262
+      internalID: -1695120394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_209
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 236
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56117df5ff95d464b89c2fe3f8fe48fd
+      internalID: 987783398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_210
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 240
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a095ebe1851644a5e60bae7806c3c
+      internalID: -864174739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_211
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 198
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb700781ac3e142846639afefd2625
+      internalID: -1799874751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_212
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 201
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf500ca0ccfae243a420c17d00cbf76
+      internalID: -318666988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_213
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 204
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63714bafda4ce2241a7b9d3f53213059
+      internalID: 1587524075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_214
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 207
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eae63c767ab4249a3a5bd4af37031c
+      internalID: 1623918970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_215
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 210
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa057e9c8bff144d8f26b415495980a
+      internalID: -1431454363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_216
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 213
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4645f70914e61f441a28537540714542
+      internalID: 893407412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_217
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 215
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c516f6d2a422b240be14e13be15f4dd
+      internalID: 121642493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_218
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 217
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279aea3842e832e4ca88be3ea94a32c2
+      internalID: 909405416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_219
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 220
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148871832a291064ba0430c7ef72b6f7
+      internalID: -1680344298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_220
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 223
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d9d43d64ee62a46aa01794cf37854a
+      internalID: -1849374978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_221
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 225
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d886c7e72d4d429f0e3a9c99967c3
+      internalID: 801783629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_222
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 227
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd7b48ce1c13564d8af9adaa5788b6d
+      internalID: 1185515924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_223
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 216
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b72088151d7c47a35922786649efa
+      internalID: -924619703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_224
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 94
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df42ce7236eaf84c9898fbc5200b53e
+      internalID: -425540509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_225
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 113
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874c094495563f449a02133b645fa054
+      internalID: 703588178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_226
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 116
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3162adb99a9810046a420c55feb178fa
+      internalID: 1660691087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_227
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 80
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4086f87fd401db74fa0ba09272bd13e8
+      internalID: 1836373925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_228
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 105
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab11254c5d704408e569c2e7b86cdf
+      internalID: -1852064113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_229
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 108
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c188f9bb55b5d764bb3eb919278f9d72
+      internalID: -16996556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_230
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 112
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f7b07713a445448857bdd1a17b16f1
+      internalID: -1707553470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_231
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 97
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f77259d653e74bb3ae6783b61866a
+      internalID: 241423232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_232
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 101
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a63e3b20cb5af94b865c6d9455847ee
+      internalID: -1162874064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_233
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 58
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87eec0d29d3b414a85434eb289537e2
+      internalID: -1682165645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_234
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 61
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2816523ce6ae29d45b4e94fbacdfb608
+      internalID: -749771817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_235
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 65
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad77ac7ef0dc53241b8f8ad2bc45f055
+      internalID: -1610877085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_236
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 68
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4c1e0f663cbd4fbcef1025cc81a81
+      internalID: 523606843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_237
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 72
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a4b4c9cdcf20c4a877f1b99939faaf
+      internalID: 1942369503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_238
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 75
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10114e5e9ebf0804dbd0c638e1fce85e
+      internalID: -500397045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_239
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 78
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e031c8e165daa4eb0d4915891b68c4
+      internalID: -1315337470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_240
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 82
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d076b7012c776e4984c7d514c34ba26
+      internalID: -724161704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_241
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 85
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd17f7b524ea574b9ca84adfd94c9d4
+      internalID: 157261894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_242
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 89
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569546200920230458260c95191376d8
+      internalID: 271866761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_243
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 92
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548fc160c0363624a81a6599f4127b30
+      internalID: -1194857336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_244
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c353ebcbb5343bb49a2b59fc48882372
+      internalID: -792881186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_245
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 99
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09007b85dae36a4daf3d778c6e0fe24
+      internalID: -178099589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_246
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 105
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eae9fba40b11e42923ccee2cfdf095
+      internalID: -766016047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_247
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dafaa5bc5ee7e4b81718b0c3defb35
+      internalID: 1790583724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_248
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 90
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a71d9db15ef4d2408c4fb65eedd34aa
+      internalID: -1374103773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_249
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 108
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f0cd6d9fdbae4996013336cccac26
+      internalID: -230076090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_250
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 100
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038f367c54d95d4d98380aae2a193ff
+      internalID: -471562217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_251
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 70
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412c8c514df983b4ca5ca06c24d055ac
+      internalID: -635239602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_252
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 71
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb403f3e6aac1e34ab69f1ffd68bf84a
+      internalID: 214579266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_253
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 77
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04b9c50436caa4faee7f6c01db0aaa
+      internalID: -1441813855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_254
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 73
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fab352faac92d84e8f841aa8d2154c2
+      internalID: -1635126523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_255
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 77
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f319e2e366921646b0f7d4aa29714bd
+      internalID: -1468295329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_256
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b020dbadf26a47a8e3a113164a863
+      internalID: -16609618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_257
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6026b1a54935594fbdd6433a49a5632
+      internalID: 1559326808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireboyAndWatergirl_258
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73ccd48d43da34f8ff32a04b3dd03d
+      internalID: 2066159770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fireboyAndWatergirl_0: 284820840
+      fireboyAndWatergirl_1: -1201216344
+      fireboyAndWatergirl_10: 1412249575
+      fireboyAndWatergirl_100: -1705299336
+      fireboyAndWatergirl_101: 1758557738
+      fireboyAndWatergirl_102: -1506709565
+      fireboyAndWatergirl_103: -1834925618
+      fireboyAndWatergirl_104: 713563597
+      fireboyAndWatergirl_105: -1086712062
+      fireboyAndWatergirl_106: 1802347539
+      fireboyAndWatergirl_107: -80206472
+      fireboyAndWatergirl_108: -1538383935
+      fireboyAndWatergirl_109: 1479747297
+      fireboyAndWatergirl_11: 1920650050
+      fireboyAndWatergirl_110: 1582435281
+      fireboyAndWatergirl_111: 526805617
+      fireboyAndWatergirl_112: 2004290509
+      fireboyAndWatergirl_113: 1009669933
+      fireboyAndWatergirl_114: 772815683
+      fireboyAndWatergirl_115: 1327630354
+      fireboyAndWatergirl_116: 784493995
+      fireboyAndWatergirl_117: -209609938
+      fireboyAndWatergirl_118: 1263273547
+      fireboyAndWatergirl_119: 1922432523
+      fireboyAndWatergirl_12: -1420037341
+      fireboyAndWatergirl_120: 348382906
+      fireboyAndWatergirl_121: -1859977054
+      fireboyAndWatergirl_122: 1983567945
+      fireboyAndWatergirl_123: -1825765468
+      fireboyAndWatergirl_124: -1010900196
+      fireboyAndWatergirl_125: 335823349
+      fireboyAndWatergirl_126: 1548241875
+      fireboyAndWatergirl_127: 1152132067
+      fireboyAndWatergirl_128: -442356677
+      fireboyAndWatergirl_129: -1287588855
+      fireboyAndWatergirl_13: 664351991
+      fireboyAndWatergirl_130: 55160433
+      fireboyAndWatergirl_131: 763774761
+      fireboyAndWatergirl_132: 1550594968
+      fireboyAndWatergirl_133: 187295843
+      fireboyAndWatergirl_134: 1687798905
+      fireboyAndWatergirl_135: 1411811916
+      fireboyAndWatergirl_136: -896503461
+      fireboyAndWatergirl_137: 1534749302
+      fireboyAndWatergirl_138: -1493434585
+      fireboyAndWatergirl_139: -639322282
+      fireboyAndWatergirl_14: 2050190100
+      fireboyAndWatergirl_140: -1348420019
+      fireboyAndWatergirl_141: 641041748
+      fireboyAndWatergirl_142: 2045196214
+      fireboyAndWatergirl_143: 738419012
+      fireboyAndWatergirl_144: -884823881
+      fireboyAndWatergirl_145: -1653356987
+      fireboyAndWatergirl_146: -164363890
+      fireboyAndWatergirl_147: 821198241
+      fireboyAndWatergirl_148: 1675195878
+      fireboyAndWatergirl_149: 1907569633
+      fireboyAndWatergirl_15: 1581527044
+      fireboyAndWatergirl_150: -1308186254
+      fireboyAndWatergirl_151: -1500827943
+      fireboyAndWatergirl_152: 1647356347
+      fireboyAndWatergirl_153: 997005715
+      fireboyAndWatergirl_154: 1752941175
+      fireboyAndWatergirl_155: -2136144711
+      fireboyAndWatergirl_156: -1245176844
+      fireboyAndWatergirl_157: -118334897
+      fireboyAndWatergirl_158: 281118161
+      fireboyAndWatergirl_159: 395597062
+      fireboyAndWatergirl_16: 129080417
+      fireboyAndWatergirl_160: -1455284569
+      fireboyAndWatergirl_161: 1042076603
+      fireboyAndWatergirl_162: -755765425
+      fireboyAndWatergirl_163: 2111851700
+      fireboyAndWatergirl_164: -537195595
+      fireboyAndWatergirl_165: 1545814125
+      fireboyAndWatergirl_166: -1828665596
+      fireboyAndWatergirl_167: -768007764
+      fireboyAndWatergirl_168: -1330232618
+      fireboyAndWatergirl_169: -1489113461
+      fireboyAndWatergirl_17: 1581316128
+      fireboyAndWatergirl_170: -635905088
+      fireboyAndWatergirl_171: 988916397
+      fireboyAndWatergirl_172: -330280511
+      fireboyAndWatergirl_173: 1444316376
+      fireboyAndWatergirl_174: -356611199
+      fireboyAndWatergirl_175: 95998553
+      fireboyAndWatergirl_176: 1816524183
+      fireboyAndWatergirl_177: -649780219
+      fireboyAndWatergirl_178: 163154815
+      fireboyAndWatergirl_179: 1297315892
+      fireboyAndWatergirl_18: -1628309290
+      fireboyAndWatergirl_180: -372375023
+      fireboyAndWatergirl_181: 1821294812
+      fireboyAndWatergirl_182: 1730477006
+      fireboyAndWatergirl_183: -779127959
+      fireboyAndWatergirl_184: -109753699
+      fireboyAndWatergirl_185: 906797510
+      fireboyAndWatergirl_186: -635037081
+      fireboyAndWatergirl_187: 1643122146
+      fireboyAndWatergirl_188: -1231929896
+      fireboyAndWatergirl_189: -1627346876
+      fireboyAndWatergirl_19: 1781002937
+      fireboyAndWatergirl_190: -217994936
+      fireboyAndWatergirl_191: 1092676762
+      fireboyAndWatergirl_192: -2023935188
+      fireboyAndWatergirl_193: -1137499435
+      fireboyAndWatergirl_194: 561408754
+      fireboyAndWatergirl_195: 1663805380
+      fireboyAndWatergirl_196: -1470507903
+      fireboyAndWatergirl_197: 1533127574
+      fireboyAndWatergirl_198: -494684012
+      fireboyAndWatergirl_199: 1073420737
+      fireboyAndWatergirl_2: 300627264
+      fireboyAndWatergirl_20: -1952881142
+      fireboyAndWatergirl_200: 824986840
+      fireboyAndWatergirl_201: -1848420391
+      fireboyAndWatergirl_202: -507941403
+      fireboyAndWatergirl_203: -2056052977
+      fireboyAndWatergirl_204: -1358353781
+      fireboyAndWatergirl_205: 1784001920
+      fireboyAndWatergirl_206: -983904081
+      fireboyAndWatergirl_207: -1951765133
+      fireboyAndWatergirl_208: -1695120394
+      fireboyAndWatergirl_209: 987783398
+      fireboyAndWatergirl_21: 698923852
+      fireboyAndWatergirl_210: -864174739
+      fireboyAndWatergirl_211: -1799874751
+      fireboyAndWatergirl_212: -318666988
+      fireboyAndWatergirl_213: 1587524075
+      fireboyAndWatergirl_214: 1623918970
+      fireboyAndWatergirl_215: -1431454363
+      fireboyAndWatergirl_216: 893407412
+      fireboyAndWatergirl_217: 121642493
+      fireboyAndWatergirl_218: 909405416
+      fireboyAndWatergirl_219: -1680344298
+      fireboyAndWatergirl_22: 1326832291
+      fireboyAndWatergirl_220: -1849374978
+      fireboyAndWatergirl_221: 801783629
+      fireboyAndWatergirl_222: 1185515924
+      fireboyAndWatergirl_223: -924619703
+      fireboyAndWatergirl_224: -425540509
+      fireboyAndWatergirl_225: 703588178
+      fireboyAndWatergirl_226: 1660691087
+      fireboyAndWatergirl_227: 1836373925
+      fireboyAndWatergirl_228: -1852064113
+      fireboyAndWatergirl_229: -16996556
+      fireboyAndWatergirl_23: -826702668
+      fireboyAndWatergirl_230: -1707553470
+      fireboyAndWatergirl_231: 241423232
+      fireboyAndWatergirl_232: -1162874064
+      fireboyAndWatergirl_233: -1682165645
+      fireboyAndWatergirl_234: -749771817
+      fireboyAndWatergirl_235: -1610877085
+      fireboyAndWatergirl_236: 523606843
+      fireboyAndWatergirl_237: 1942369503
+      fireboyAndWatergirl_238: -500397045
+      fireboyAndWatergirl_239: -1315337470
+      fireboyAndWatergirl_24: -381695736
+      fireboyAndWatergirl_240: -724161704
+      fireboyAndWatergirl_241: 157261894
+      fireboyAndWatergirl_242: 271866761
+      fireboyAndWatergirl_243: -1194857336
+      fireboyAndWatergirl_244: -792881186
+      fireboyAndWatergirl_245: -178099589
+      fireboyAndWatergirl_246: -766016047
+      fireboyAndWatergirl_247: 1790583724
+      fireboyAndWatergirl_248: -1374103773
+      fireboyAndWatergirl_249: -230076090
+      fireboyAndWatergirl_25: 631894762
+      fireboyAndWatergirl_250: -471562217
+      fireboyAndWatergirl_251: -635239602
+      fireboyAndWatergirl_252: 214579266
+      fireboyAndWatergirl_253: -1441813855
+      fireboyAndWatergirl_254: -1635126523
+      fireboyAndWatergirl_255: -1468295329
+      fireboyAndWatergirl_256: -16609618
+      fireboyAndWatergirl_257: 1559326808
+      fireboyAndWatergirl_258: 2066159770
+      fireboyAndWatergirl_26: -927113542
+      fireboyAndWatergirl_27: 1415718990
+      fireboyAndWatergirl_28: 1356928494
+      fireboyAndWatergirl_29: -451565025
+      fireboyAndWatergirl_3: 1910880518
+      fireboyAndWatergirl_30: -1081390625
+      fireboyAndWatergirl_31: -988436176
+      fireboyAndWatergirl_32: -1934103719
+      fireboyAndWatergirl_33: 1036919723
+      fireboyAndWatergirl_34: 885229982
+      fireboyAndWatergirl_35: -1822724712
+      fireboyAndWatergirl_36: -959588121
+      fireboyAndWatergirl_37: -414833158
+      fireboyAndWatergirl_38: -1674802869
+      fireboyAndWatergirl_39: -1941432060
+      fireboyAndWatergirl_4: 2057017379
+      fireboyAndWatergirl_40: -400726761
+      fireboyAndWatergirl_41: 514625415
+      fireboyAndWatergirl_42: 2011885858
+      fireboyAndWatergirl_43: -196431293
+      fireboyAndWatergirl_44: 2411969
+      fireboyAndWatergirl_45: 247664120
+      fireboyAndWatergirl_46: -1465457599
+      fireboyAndWatergirl_47: -1781772717
+      fireboyAndWatergirl_48: 1580436215
+      fireboyAndWatergirl_49: -2046853135
+      fireboyAndWatergirl_5: -995365683
+      fireboyAndWatergirl_50: -1264869430
+      fireboyAndWatergirl_51: 315391772
+      fireboyAndWatergirl_52: 1784913060
+      fireboyAndWatergirl_53: -1669647133
+      fireboyAndWatergirl_54: 1240791900
+      fireboyAndWatergirl_55: -955125024
+      fireboyAndWatergirl_56: 884000894
+      fireboyAndWatergirl_57: 1455613579
+      fireboyAndWatergirl_58: 1690245394
+      fireboyAndWatergirl_59: 679285397
+      fireboyAndWatergirl_6: -969902014
+      fireboyAndWatergirl_60: 455448501
+      fireboyAndWatergirl_61: 2111394803
+      fireboyAndWatergirl_62: -1935786459
+      fireboyAndWatergirl_63: 934804933
+      fireboyAndWatergirl_64: 1513939313
+      fireboyAndWatergirl_65: -391139804
+      fireboyAndWatergirl_66: 1761458296
+      fireboyAndWatergirl_67: -677075600
+      fireboyAndWatergirl_68: -328874410
+      fireboyAndWatergirl_69: -2105546354
+      fireboyAndWatergirl_7: -556439393
+      fireboyAndWatergirl_70: 65512681
+      fireboyAndWatergirl_71: -1829704227
+      fireboyAndWatergirl_72: 1362308964
+      fireboyAndWatergirl_73: 748649271
+      fireboyAndWatergirl_74: -2136111016
+      fireboyAndWatergirl_75: -60181111
+      fireboyAndWatergirl_76: 1584044327
+      fireboyAndWatergirl_77: 623661676
+      fireboyAndWatergirl_78: -969816493
+      fireboyAndWatergirl_79: -392514045
+      fireboyAndWatergirl_8: -154983263
+      fireboyAndWatergirl_80: 501822082
+      fireboyAndWatergirl_81: -462616913
+      fireboyAndWatergirl_82: -904047040
+      fireboyAndWatergirl_83: -1640267507
+      fireboyAndWatergirl_84: -1704189795
+      fireboyAndWatergirl_85: 1756319355
+      fireboyAndWatergirl_86: 1431210853
+      fireboyAndWatergirl_87: 1346358081
+      fireboyAndWatergirl_88: -271480761
+      fireboyAndWatergirl_89: -863206112
+      fireboyAndWatergirl_9: 267657857
+      fireboyAndWatergirl_90: -332854374
+      fireboyAndWatergirl_91: -710341853
+      fireboyAndWatergirl_92: 171076288
+      fireboyAndWatergirl_93: -461095527
+      fireboyAndWatergirl_94: -323715808
+      fireboyAndWatergirl_95: -841076342
+      fireboyAndWatergirl_96: 281379437
+      fireboyAndWatergirl_97: -105918330
+      fireboyAndWatergirl_98: -1539916531
+      fireboyAndWatergirl_99: 2114718128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
