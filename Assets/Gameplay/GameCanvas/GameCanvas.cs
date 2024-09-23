@@ -7,18 +7,19 @@ public class GameCanvas : MonoBehaviour
     public TMP_Text levelTimeText;
     public TMP_Text fireCrystalText;
     public TMP_Text waterCrystalText;
-
+    public TMP_Text whiteCrystalText;
 
     private float _levelTime;
     private int _fireCrystalQuantity;
     private int _waterCrystalQuantity;
-
+    private int _whiteCrystalQuantity;
 
     private void Start()
     {
         _levelTime = 0f;
         _fireCrystalQuantity = 0;
         _waterCrystalQuantity = 0;
+        _whiteCrystalQuantity = 0;
         UpdateText();
     }
 
@@ -50,6 +51,11 @@ public class GameCanvas : MonoBehaviour
         _waterCrystalQuantity++;
         UpdateWaterCrystalCountText();
     }
+    public void AddWhiteCrystal()
+    {
+        _whiteCrystalQuantity++;
+        UpdateWhiteCrystalCountText();
+    }
 
     private void UpdateFireCrystalCountText()
     {
@@ -58,5 +64,9 @@ public class GameCanvas : MonoBehaviour
     private void UpdateWaterCrystalCountText()
     {
         waterCrystalText.text = Convert.ToString(_waterCrystalQuantity);
+    }
+    private void UpdateWhiteCrystalCountText()
+    {
+        whiteCrystalText.text = Convert.ToString(_whiteCrystalQuantity);
     }
 }
