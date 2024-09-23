@@ -1,12 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class FireController : MonoBehaviour
 {
     private float _moveSpeed = 5f;
     private Rigidbody2D _rb;
-    private float _jumpForce = 10f;
+    private float _jumpForce = 6f;
     private bool _isGround = false;
     private void Start()
     {
