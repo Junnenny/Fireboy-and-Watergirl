@@ -36,7 +36,7 @@ public class Fire : MonoBehaviour
 
     public void SelectLevel()
     {
-        SceneManager.LoadScene("MainMenu");// должна быть другая сцена
+        SceneManager.LoadScene("LVLs");
     }
     
 }
