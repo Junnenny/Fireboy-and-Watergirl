@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e95079a178037e840a7497171d6195dd
+guid: a4e6a62ad8d06224a9e9da364021b05c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: w12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 153
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e6d6f68928e74697965f8206d813b
+      internalID: 1057495684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w12_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3
+        width: 153
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd14371e17d65bb47bd7123ffb9b18ec
+      internalID: -1174090871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w12_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 154
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d259249dc0d2f3b4e9e05212c06f0d96
+      internalID: 1851449375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +195,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      w12_0: 1057495684
+      w12_1: -1174090871
+      w12_2: 1851449375
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
