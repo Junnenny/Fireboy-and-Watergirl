@@ -29,7 +29,6 @@ public class LeverController : MonoBehaviour
     private void ToggleLever()
     {
         _currentState = _currentState == LeverState.Inactive ? LeverState.Active : LeverState.Inactive;
-        PerformActionBasedOnState();
     }
 
     private void Update()
@@ -37,11 +36,6 @@ public class LeverController : MonoBehaviour
         float targetAngle = _currentState == LeverState.Active ? activeRotationAngle : inactiveRotationAngle;
         float angle = Mathf.LerpAngle(pivot.eulerAngles.z, targetAngle, Time.deltaTime * rotationSpeed);
         pivot.eulerAngles = new Vector3(0, 0, angle);
-    }
-
-    private void PerformActionBasedOnState()
-    {
-        Debug.Log("Lever is now " + (_currentState == LeverState.Active ? "Active" : "Inactive"));
     }
 }
     
