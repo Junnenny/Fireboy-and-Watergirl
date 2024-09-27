@@ -1,0 +1,6850 @@
+fileFormatVersion: 2
+guid: 62691473938b6dc48ae5101d27c916d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MechAssets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276f09596b5708b42bcc80f5ac2b4617
+      internalID: -1966427604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2011
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1541a28fe7fd0b4281cee412eb59a91
+      internalID: 2123745725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1979
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c27e02bd8bbd546973a80459f201ed
+      internalID: -2097088105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_3
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1984
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafd317a2f8363143b0c57b6a9b23342
+      internalID: -1234988707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_4
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2030
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2886dc49406046144ad6692ae4329949
+      internalID: 1765984116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_5
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1976
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67621e8af4459e545b414768dfa67b42
+      internalID: 2020867797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_6
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1979
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2dca5fb35dedc449b0cbf764deb5e7
+      internalID: -1436159768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_7
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2003
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b601d075b4185419c987b4a5b97c9e
+      internalID: -764024749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_8
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2003
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b874e193cb9449b701cd373de7d9b
+      internalID: -759546226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_9
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 2002
+        width: 102
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da655a2c17d34d44db2323d58887b28b
+      internalID: -1446671575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_10
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2031
+        width: 98
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52e0671a640a134dbe57d1e3f9d2c8d
+      internalID: -1002205265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1976
+        width: 86
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75fc0b62bd97e4581570ada044d639
+      internalID: 1458694786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1993
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e2003fece2c94c95d44a4ff9cc6d9
+      internalID: 46228770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1993
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a618661714b404180c98d882b3f18f
+      internalID: 1331454961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1961
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1857c95d57e6c104a923fe1f039fd9a5
+      internalID: -1168568918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1973
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf1078da9e98664f9510d2bdc69fb9b
+      internalID: 228843484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_16
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1969
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6359669c7acf98244842bea0ab13a968
+      internalID: 906635127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_17
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1968
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e2491b434bde4eb15cffb67e1e8dc
+      internalID: -1441905524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_18
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1978
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723878e9b4f977843905ded638f14834
+      internalID: 833024388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_19
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1986
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f39176fe913843808e3905d8f686e
+      internalID: -255098626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1983
+        width: 36
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe5a6fea7f6d114eb8c233e2f581844
+      internalID: -775959874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1855
+        width: 109
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd42a726215e3824b8fe6bc34cd8e7e9
+      internalID: -587903347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1820
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f72f179af07a0a4892adfb9169c2c9b
+      internalID: 2054733865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1719
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8fd6ade7ac22c49ad1e229a6c42a61
+      internalID: 997594881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c61e9a179d1d479346d09e58e33d6
+      internalID: -323186401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f740aef111862c748a749e8ada631bb8
+      internalID: -764892153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb88d45f3794bf54c9e6f70ad810bfda
+      internalID: -994139487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b86f2898767e4a933ea1ba5f70dcc
+      internalID: 1734155777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_28
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6fc668f8f5e834aaa4a8269d05c87d
+      internalID: 690756210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e50e9cdd017fb4bbd7f626102f37c1
+      internalID: 1763929584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_30
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e1c4b05d0abff44b1abe2775ed721d
+      internalID: -1730797986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_31
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded379892b85a3429940ee6c81ad669
+      internalID: 1829750670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_32
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9f16fb21e7254798fc8cb0859fab0
+      internalID: -271477233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_33
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e597cd4d96388cf4a806ebdb788ed09b
+      internalID: 1842962898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_34
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3a386e0f49934ebecfa8c2283f4c6
+      internalID: 1652871276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_35
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ef88a165503bf40af1542f2d2de175
+      internalID: 619402568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_36
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48727333f05cbb8498447af254496efe
+      internalID: -436421189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_37
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf50db21ec06e84da98f913b610e9d0
+      internalID: 1433038826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_38
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bfe15f30431244987914a7b4f6848d
+      internalID: 2017617185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_39
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c344bee97abfdfa41b46098e74e2c608
+      internalID: -184658367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_40
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1b3dbf8aade7c429ef42148b23b3dd
+      internalID: -709735218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_41
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc33f8841a5351409e45fa68a0fb978
+      internalID: 555644786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_42
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ce9b6f0e893f1438d00d1ad454d6c5
+      internalID: -2109355117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_43
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5367bf8d1319ef54592023cea29b2440
+      internalID: -345320645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_44
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1745
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6a49216ba8e284894ab0a2eee51746
+      internalID: -1770645923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7843897f9b143b04d8dac741ef29bb20
+      internalID: -1814859531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0dc3dc9074f7f42a1a54f4af8b7c2c
+      internalID: -2128908903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8a6a2bc511874e9bfa6d21c60f8f6
+      internalID: 774607746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ec6c610a87314c960f6edba1f2130
+      internalID: -78279594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_49
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac70e18584e78e4bb79c3259810f6f4
+      internalID: 408265008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_50
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4045ccb409d86934ea64c3849d1a785b
+      internalID: 1540355947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_51
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e0f427fc949424e86ac034594643c4
+      internalID: -899096250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_52
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc60c00eccc458408cff3dddc1d0cc6
+      internalID: 2063414632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_53
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5607124a6558488b067d8a7d99169
+      internalID: -1165019851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_54
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32930e3c8fe77438b806f1aa37471c
+      internalID: -1403367495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_55
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0987c6ab42dd87f4f8e13f6dbedd5622
+      internalID: 1061857540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_56
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8f15b34b0c8e4783ba92c9b662122
+      internalID: 983966456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_57
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ed35ad997d4a34f99b1fb54142b11d
+      internalID: 864305095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_58
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6185a883a05f14bae326365dbc2204
+      internalID: 971892981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_59
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0791852b03f4f544bb6e96a64f8ac24d
+      internalID: 1714546827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_60
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e37dd4d28bad140b765665a0b0ff0f
+      internalID: 1448702761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_61
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a989d8974bac784a9dff1b296838172
+      internalID: 1614733354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_62
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1575
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f388d7295313dbc4f987a0d2fbb0c756
+      internalID: 1854675746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_63
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1575
+        width: 48
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06711f4395d016b41b234ce5bc1b1a64
+      internalID: -1596922481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_64
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1548
+        width: 41
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61328e49cfd57e042b71aa3ece455aec
+      internalID: 413111236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_65
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1548
+        width: 40
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a03dac2efe494445843a636bc38f3de
+      internalID: -509073036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_66
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1374
+        width: 39
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd827d54cfac30f408a25b30d17076ad
+      internalID: 1645392326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_67
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1374
+        width: 39
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6218042a839348a22855802245f9b
+      internalID: 1038740328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1374
+        width: 38
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb9013e440e5314e88ac367f0c1e754
+      internalID: -89717413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_69
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1374
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf0ef05c6ac3154aac7a72de7e26e86
+      internalID: -823758783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_70
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1374
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65855494643564444800eb3093761ff7
+      internalID: 531432885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_71
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1374
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cc618096506ea408e2e87dbf4530e9
+      internalID: -1765834444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_72
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1374
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac47534d09c75d418c683e64c17adf8
+      internalID: 644681833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_73
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1374
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79916305631e9724fb93e9a173e2a147
+      internalID: 846423481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_74
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1374
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5d96112152b84e8180f0e58709ac9
+      internalID: -965723154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_75
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1374
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d038cea5816f479f60214e59ee03d
+      internalID: 1080790711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_76
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1374
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c3880986df3684e93bcf9c553e6cf7
+      internalID: 1450182672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_77
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1374
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb4303de1591b439146956c57ba63f
+      internalID: -1355113094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_78
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1374
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f203f170f8cdc54dbb98540f096507c
+      internalID: 1652462806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1200
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00cf9a038f3e7f48a0894b8f09ab31f
+      internalID: 587736205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1200
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b88cede1eb0140a513739bf33a7f5
+      internalID: -27986141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_81
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1200
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3fc66073f4af344ba24147992ba780
+      internalID: -746006143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1200
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b8949e7516fff45990c40c65c853d4
+      internalID: -407146367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_83
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1200
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4902d9ffe004429c903b9cb764567
+      internalID: -131939468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_84
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1200
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506058e7c0499ee44a93092e8b120b80
+      internalID: -1959972911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_85
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1200
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f20a9e3235a64ab2813efd4f8c892
+      internalID: 1005757078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_86
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1200
+        width: 35
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a619bcc57573424aa1ff6b2374c3543
+      internalID: 788543948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_87
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1200
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044110876846f7b4ca86c61f66f87042
+      internalID: -652047780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_88
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1200
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b8b172bd4998f4d9017ed03c0b6bfd
+      internalID: 1213193099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_89
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1200
+        width: 38
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890ddf0982ea7504f90b957d07fd3b2f
+      internalID: 874323571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_90
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1200
+        width: 39
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523862ed63469244b33906908653763
+      internalID: -9735771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_91
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1200
+        width: 39
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0a4dc068bc24841963e870f7c0118f
+      internalID: 2040860777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_92
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1026
+        width: 40
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac8d6c6c9bfe084c82508c7d1cf67ab
+      internalID: -618805431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1026
+        width: 41
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c009b572d1c254a9c4db880ba76b09
+      internalID: 2081463217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_94
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1153
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918dcffde8e6f14393d99dd581e810b
+      internalID: -1075722067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_95
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1161
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b7f7a1db94b4f478929379c8ef1609
+      internalID: -5552080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_96
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1168
+        width: 136
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9841decd479a6447af17703240260c7
+      internalID: -804938614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_97
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1144
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20cd77509b8d946a9ebb7ae76e0900
+      internalID: 77592327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_98
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1112
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41069e4ac6f8aae46bb17d58e9219099
+      internalID: 1103583608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_99
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1168
+        width: 96
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f1db23207a63e4c87f68849fb77952
+      internalID: -1591723629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_100
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1169
+        width: 82
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab7326ad5f982439319ce8a2e6f725
+      internalID: 1682347009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_101
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1159
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f5aecc4e3753947809f32fca644662
+      internalID: 2017494348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_102
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1158
+        width: 116
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00c39895adbbbe4d8923257a580801e
+      internalID: 1768515620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_103
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1085
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403bdd68cf453e418275cc17e24721b
+      internalID: 1585637838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_104
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f814ca233f93c440a5c39c29e21090d
+      internalID: 434324018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_105
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1146
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d50e56a6b37ae04593ce1eead5b2f4e
+      internalID: -810380532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_106
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1136
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aecba963722a641bc8cdd71cc3d588
+      internalID: 1732769576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_107
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1139
+        width: 77
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b331473f995c644eae1ddd152441361
+      internalID: 1544434316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_108
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1061
+        width: 110
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b327ce7fd9ea7ae419b00d442d7f43c3
+      internalID: -698552899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_109
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1077
+        width: 115
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60fb8bfac5470d45b8f493e0cbaad6a
+      internalID: -137286140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_110
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1096
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92644572ac8831841be644b135acf298
+      internalID: -525542871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_111
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1064
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba69e4d48c525a448734741214e1d70
+      internalID: 1829296026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_112
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1026
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ddbd8f54e7f247879f9d86fe73fd6
+      internalID: 596497809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_113
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5227b0088982cb4582c03be483249ac
+      internalID: 1183474770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_114
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 950
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a6a609c1ec308478378bbd6e476c66
+      internalID: -1932671886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 961
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59048ba30b3be0f46976ddb82ddb1060
+      internalID: 519049389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 864
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e55c7af855619428535c725b2313f7
+      internalID: 711640948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_117
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 847
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802cf7fd832cbf642a4e093b099fa425
+      internalID: -1198603878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_118
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 962
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc985a43f9dbf04458c05ed8f045974a
+      internalID: 1451518682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_119
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 971
+        width: 218
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f6826969bfde4cbbac71642638dac
+      internalID: 794415901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_120
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 973
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c983183874e64e842a7d64747b71f142
+      internalID: 1262290462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_121
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 942
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d1a353c096fb4cb5292d7caf24392
+      internalID: -1222206492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_122
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 930
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c97a4fc0655e841abe58a6077cc78d
+      internalID: -617063379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_123
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 930
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a8a87c8ce36341a1af7d161affdc4
+      internalID: -574426392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_124
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 895
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e602a3942d9a6204694d4114adb392ce
+      internalID: -709064288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_125
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 805
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee0fc5cb692e90478c7d5eeab234134
+      internalID: -1799920413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_126
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 895
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8977eeef6e993343b215131184611a2
+      internalID: -1584739432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_127
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 892
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4d30ba7af2bfc42aafebf1022b4709
+      internalID: -1396077889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_128
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 890
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cfbd64aa1a06446909428dccde2892
+      internalID: 1837784665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_129
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 886
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b27225d4fc7804bb07dd2bf7a6a150
+      internalID: -969311272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_130
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 811
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85757d696025bf442b11bf507c1bf3c9
+      internalID: -1331002365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_131
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 814
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24436a0cf8913443a9eb40dbfaa3787
+      internalID: 1855271691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_132
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 812
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7b99683a88be64fb9433619873798b
+      internalID: -1209846519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_133
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 808
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ce69daeb2c86429665d8ab5ce753e
+      internalID: 26334460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_134
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 806
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3240db3a41638b4698d277a3afbe9a1
+      internalID: 1049707022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 676
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4104e0bd4ff53b14f8d02b3bb5aeebf7
+      internalID: 1822893928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_136
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 676
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1773124b6ef04284c99f47de59c846fc
+      internalID: 1088196914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_137
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 707
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feea646bbaa497f4f875bbb01cc314e4
+      internalID: 1689100282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_138
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 692
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed2199ee9fa91c4094abde174de2b7d
+      internalID: -272554447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_139
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 607
+        width: 7
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc643fbf353e7b4baedca6b290d54c7
+      internalID: 195639414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_140
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 680
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d9c13945643e418a6942de8a47c5d
+      internalID: -1756235169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_141
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 607
+        width: 7
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2a630fa14649f43bc9900b569e0e2e
+      internalID: -1768818722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_142
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 636
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483d31bb3d8aa94dbea6ab8fbc6ed41
+      internalID: 1640587440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_143
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 502
+        width: 41
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3948cc0490f24847b0e6a300197b735
+      internalID: 312451411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_144
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 680
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70212f7e31010d4a905618166bf8075
+      internalID: -329661875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_145
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 586
+        width: 30
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baab9f3bb9e85f4bb1e5a8ad10ce287
+      internalID: -62512878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_146
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 636
+        width: 17
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929ada933f6c6e489b152ed199f7942
+      internalID: 2041927974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_147
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 573
+        width: 11
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d6389495840ec459d995168df3c165
+      internalID: 291587783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_148
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 680
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6362eb11ed703540b0ed96d3aba2a38
+      internalID: -361129747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_149
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 631
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018be72c5a49ac4b80f8cadaf158440
+      internalID: 526258305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_150
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 518
+        width: 32
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab62874ac7a89847ad0f1b73e713cdc
+      internalID: 1955603157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_151
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 544
+        width: 9
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36871860366784882b23d7594b5177
+      internalID: -134898991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_152
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 515
+        width: 13
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79501f2ec52b7a41b84a4f37b09bd9d
+      internalID: 1640168107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_153
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 560
+        width: 5
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12ba2310f60861408f3ef208e286d9b
+      internalID: -879181158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_154
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 530
+        width: 19
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f49d289f2ac364992ae05c1c94aa00
+      internalID: -1771443553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_155
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 550
+        width: 10
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95698788c9220214284fc74ed3c93ecc
+      internalID: 1448939430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_156
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 502
+        width: 31
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0f9714cbcbd974d829bc1171ba25e4
+      internalID: 376842586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_157
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 642
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30850ffd7697cf5428f0a4b7c3dc144b
+      internalID: 1499482726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_158
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 650
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4061ee5760a14fa46ae334f34f323101
+      internalID: -621179192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_159
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 641
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd7f30bdde701418107cfc1d021545
+      internalID: 1704412312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_160
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 588
+        width: 12
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a7583c77cd11c458b20c05179f81be
+      internalID: 447091975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_161
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 673
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed187c956915644395de3b21b8da0bc
+      internalID: -504584946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_162
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 544
+        width: 9
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ecf44a8d1ed8948897d4970a4e1019
+      internalID: 978864578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_163
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 515
+        width: 22
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4401c52903361419b18c77de3c698f
+      internalID: 915193455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_164
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 560
+        width: 5
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9cecb8f8b8584bbb0ae7a2d0a1755
+      internalID: -781498346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_165
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 516
+        width: 32
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc62be221dd444e863af47f7285234
+      internalID: -1495280187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_166
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 532
+        width: 27
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21601330d7a6d7e4cb74e506992a7633
+      internalID: -2005308750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_167
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 650
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1365252eb6aba44a6bb4c11fa63efd
+      internalID: -1418301405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_168
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 515
+        width: 12
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20111d3362d1b654ba45612b39ea670d
+      internalID: 1707496040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_169
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 522
+        width: 32
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c197c769e8e91c44b8b973899708a03
+      internalID: -1830499329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_170
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 518
+        width: 27
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b314eb37615a4b9c4a0490edb1686
+      internalID: 408539882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_171
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 551
+        width: 9
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf1fb635fe1bd40ada1f828698c098
+      internalID: -758901330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_172
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 547
+        width: 7
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293baf44b21ec5f4697f661a72d5a3b4
+      internalID: -1196383944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_173
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 541
+        width: 24
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8510df88f14005c49acf8c2f857ebd11
+      internalID: -298386254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_174
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 650
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b19ae081ceaa1449d3600dbf249b09
+      internalID: -30657339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_175
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 571
+        width: 33
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef1354cc4cb14a4b8f93be16a458b84
+      internalID: 858891090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_176
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 550
+        width: 32
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec60852621c284f96f3eac1af7324f
+      internalID: -1793672500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_177
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 601
+        width: 32
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eb171059d4d5542b6c0e97d9b71c5f
+      internalID: 268325159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_178
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 673
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1df5dc2f62e2747a3d2af752de7b2e
+      internalID: -131331992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_179
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 550
+        width: 10
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b5207d8e94bb94294a31d90a832565
+      internalID: -742726758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_180
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 518
+        width: 32
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef935bd25c14b5d48a85be7000e0925d
+      internalID: -932269661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_181
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 588
+        width: 9
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3104012b0d6d9e4a8b31306f13e0de6
+      internalID: 1283641980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_182
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 498
+        width: 10
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30cf05118891545a11f163bb86a511
+      internalID: 790929632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_183
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 612
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b13e9a8843184da9fcaac61a27975
+      internalID: 1180813974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_184
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 498
+        width: 10
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d33351468af94d81a0b0e3c4909f1
+      internalID: 37567498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_185
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 499
+        width: 33
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107fa8391a53c8842beebe9326a4df59
+      internalID: -701645484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_186
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 558
+        width: 32
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bf5755cc7ff4446a5d4b8d7a84fa98
+      internalID: -507377145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_187
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 621
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0f61babc0e064e895ace7997a7a67
+      internalID: -1337848356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_188
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 558
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd7352442dba394f886ac119e75f7b9
+      internalID: 1009239494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_189
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 544
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937adaab4caf54449c603a31b26d81f
+      internalID: -399164270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_190
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 499
+        width: 28
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed4d1dfe6273d5498cb39a5f53da5a5
+      internalID: 1072239204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_191
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 516
+        width: 17
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54d04bf396c49b4f8a176c6064b4c4e
+      internalID: -2090762071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_192
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 584
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4725b7e03501247aff06c03def6e31
+      internalID: 1835936335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_193
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 577
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402b2197375e04c4697a7366625673b1
+      internalID: -165341297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_194
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 516
+        width: 6
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ceeb0ad08e6664b8f7c968465456f5
+      internalID: 1386356793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_195
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 522
+        width: 9
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487e03b8d0486ad4caffd3a5ac54074c
+      internalID: -1699436801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_196
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 501
+        width: 13
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7676bcc6145ff4781b808c512bf5c6
+      internalID: 221249784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_197
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 522
+        width: 9
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e350b3d2e4d67524fb8c9fd3873f25b3
+      internalID: 1407173491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_198
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 497
+        width: 21
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f4fa7ec9bb41c4dabe9bbec45787d8
+      internalID: -1061984359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_199
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 502
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fc3d20a5bf57744a84732250641643
+      internalID: -1838456597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_200
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 569
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3448d345297c7674899c36d6b6015ecd
+      internalID: -609656514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_201
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 518
+        width: 13
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31189ec4b0de88449bdcde9a0cfebf24
+      internalID: 2078471729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_202
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 501
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d067a3a6f828fe47bb2c9e299903d13
+      internalID: -1207925504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_203
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 529
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4493f49eaa122d4d9c8b3f876358ca8
+      internalID: -308646697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_204
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 543
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d84039fe01880e4baa5f0a38bb45435
+      internalID: -1445856783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_205
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 497
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c458d957a66f6f348a83d9150cdcb53c
+      internalID: -1631637666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_206
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 497
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd819e92b0a1d9a4eaaa18e0316baea7
+      internalID: 478062157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_207
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 497
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e641a82b3e7a04996e835768a110d8
+      internalID: -1587627413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_208
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 508
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1677f57833784ebdde5519cf663ef
+      internalID: 1543634792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_209
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 497
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe0786540b3a76468c2911b214a1a36
+      internalID: -926300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_210
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 497
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b72e15595cb2724394903c65366d202
+      internalID: -1104091090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_211
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 330
+        width: 11
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1b0b26931ea840a7f3a6e5af8eac3
+      internalID: -2131388525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_212
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 273
+        width: 27
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76df3c122f66ece43b421e906c7df970
+      internalID: -562605816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_213
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 305
+        width: 32
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49324680012d0c84ea3dd83aa6495624
+      internalID: 919399752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_214
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 326
+        width: 23
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4527e603c71b9de4cbeacbf2cdb4c634
+      internalID: 1457546184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_215
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 352
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6764362b25ab4f489f6a278f08cd101
+      internalID: -504626686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_216
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 435
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212916c781d76654ab7b9d7572b36af4
+      internalID: -1758267625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_217
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 273
+        width: 21
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9857cbe89a09747b3c798b4207af2c
+      internalID: 529585519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_218
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 428
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ffa3da5d5635748a30d359c214b903
+      internalID: 461500089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_219
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 270
+        width: 30
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37504f452e4528b429abe91095adf030
+      internalID: -970518242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_220
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 305
+        width: 29
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3418684f132134949b12c57334cefac6
+      internalID: 1676344312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_221
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 305
+        width: 33
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe91dbc2e4ec849b5f1b18d33770cf
+      internalID: -509336818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_222
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 441
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16280b2626b03b648bcde2861bc5434a
+      internalID: 1928207246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_223
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 257
+        width: 46
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a49ff785ac7d45a1f74add63623a6
+      internalID: -2050168359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_224
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 397
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f661a1f792973346948b7471105f83f
+      internalID: 2004197494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_225
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 306
+        width: 31
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38b143b54f11a4b9e1e1669936f90b
+      internalID: -837979285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_226
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 256
+        width: 62
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75bb52ca38f1344f9e9b7cec9bc6f11
+      internalID: 2097404122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_227
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 277
+        width: 78
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a8caff48e7604281f96ea8d68cd5a
+      internalID: -1282209936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_228
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 271
+        width: 61
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0baa91da2d30bd4ea6bb9b7cd66bb35
+      internalID: -78553303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_229
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 330
+        width: 25
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0816b383ac3f3a84984cee0c3b91e74b
+      internalID: -2133791748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_230
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 375
+        width: 20
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf98c7d1b1a4074499478e5f9003399
+      internalID: 66427831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_231
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 396
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6f88a31dd7e6c4897962922fbb89d0
+      internalID: -1989122670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_232
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 435
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3c580ab8cbfd4ba4b5bd7b7125424
+      internalID: 2139262412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_233
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 341
+        width: 34
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5face9ecb8b324ca75d242c4ca5f33
+      internalID: -1936345198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_234
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 428
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dd62d69a18d8b43834db983801f322
+      internalID: 1878344033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_235
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 450
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d470f5d9936259409ff6cf83a05298f
+      internalID: 1786598070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_236
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 387
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a01a30a272cc294bb8044836f296991
+      internalID: 832264999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_237
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 253
+        width: 34
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1630ecac18327d42933cf1384744b2e
+      internalID: -1969342712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_238
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 270
+        width: 35
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a348f89ef6e5e44e9cc44ff0a94ce3a
+      internalID: -1300950987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_239
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 315
+        width: 18
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd12e3baa6cf14149be6cb7a7f325056
+      internalID: 1652008799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_240
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 302
+        width: 28
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af77ed49b077748aa67a53c91ab112
+      internalID: -1819332981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_241
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 376
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7bc41c3f9c37409509f0898c6d6d8
+      internalID: -530004478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_242
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 398
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e18d059701eb4d8956d4b3a59771d
+      internalID: 2083410294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_243
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 396
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57025cffa68e9140b158eff5257ed9b
+      internalID: 1899207525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_244
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 315
+        width: 19
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83bdaf794e8cc7409c316fdb68ccf0e
+      internalID: 479645185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_245
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 271
+        width: 26
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ba8211ba16264691e555b5b44d79d
+      internalID: -1246566224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_246
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 315
+        width: 22
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44db2166bcbde4241b1386bb4827cc40
+      internalID: 860899102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_247
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 288
+        width: 20
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9021f13374e3dbb4abdf24dbdb2c25cc
+      internalID: 2030597709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_248
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 421
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23465480859d0ab4fb2fb3c39ff84283
+      internalID: 86887528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_249
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 405
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935eb8585e93ff42b23a355c408b5e4
+      internalID: 2132798912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_250
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 277
+        width: 41
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11304e3be673a2240883d7f3f4003558
+      internalID: 1484643172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_251
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 422
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b62a8db9e3812d449a07177e133d9b5
+      internalID: 732932683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_252
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 277
+        width: 15
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0600675bdaf97904998c3524fea3edef
+      internalID: -1829416737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_253
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 369
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f3511f2f0bc194ba3d1b336029ff15
+      internalID: 1552490280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_254
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 305
+        width: 32
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e558ce0cb8629d4999971eae740b370
+      internalID: 755843492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_255
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 277
+        width: 20
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b203b1f6cd7d4ab08dfd6a85e688b
+      internalID: -1198482890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_256
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 273
+        width: 12
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625eb82da73ae747afd4e3caf3988ab
+      internalID: 1714456009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_257
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 307
+        width: 31
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b4a668252104408d2593e77b6138e
+      internalID: 170275209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_258
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 386
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb7ad62fe658b40879b61de16df584
+      internalID: -2007730596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_259
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 341
+        width: 9
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165bdc73e3080564daa11a5e6b46ff00
+      internalID: -300363292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_260
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 254
+        width: 25
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd73d9bb0cba142b9f8bc60981b32f
+      internalID: 1498242342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_261
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 253
+        width: 10
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0819bcffb99f25346baa0318cc00f880
+      internalID: 801439513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_262
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 254
+        width: 15
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451badb6e0f4004d86ea2a8abbc0cc6
+      internalID: -1734909752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_263
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 253
+        width: 10
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4b27bdd1cce84dbf3e961829da3e1
+      internalID: -2122259680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_264
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 254
+        width: 15
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f213f87ec957ae4995057115beb76dc
+      internalID: 1854376907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_265
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 375
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee15cd7e4007974cb34c2259dbf9d63
+      internalID: -1891737895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_266
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 375
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b237d97bf1328409ddd48a069f7eaf
+      internalID: -1035773469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_267
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 333
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e9c5f346a078643bc731d32efab786
+      internalID: 85186684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_268
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 333
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d8f6127ac2a0044b8a904a378e3f54
+      internalID: -1945648234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_269
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 277
+        width: 9
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a018c3f656831b4b984bacdc82c1a1f
+      internalID: -622912329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_270
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 299
+        width: 8
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a0d946e8725940bb6f7fda2842b6a
+      internalID: 1365545110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_271
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 326
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dafee524623994280bbafb7d8081ba
+      internalID: -943814407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_272
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 256
+        width: 13
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aaf255175db264c8c87c5007ed2e3a
+      internalID: -1952917864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_273
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 277
+        width: 9
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282f6377ea4f5e48aab9d89efb75265
+      internalID: 1250583727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_274
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 257
+        width: 19
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465c662317145b4f886c7f6936e40e1
+      internalID: 950217474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_275
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 299
+        width: 8
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c31e19d66a334793ea0f234a8fc9b
+      internalID: -559184623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_276
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 256
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b8f1b48e1372418acb61f2fecd27e
+      internalID: 1472184103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_277
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 257
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb3012df2bd394da17bf3948da130a
+      internalID: 1367398727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_278
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 252
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f606839f7ade3043b333aa8a26c6391
+      internalID: 413471170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_279
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 252
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512cd824bd696540a502273f6032587
+      internalID: -1146579784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_280
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 256
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5050df460a87b7f4e811682aee034b76
+      internalID: 2036186089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_281
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 252
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87215a512d1b3d4eb70be03a2396da5
+      internalID: 775967569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_282
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 252
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca53ad4d0340e4d88abfc85cb77cd2
+      internalID: -1510828782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_283
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 257
+        width: 17
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb5be44d743f24490ca3f230096efd
+      internalID: 1148662270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_284
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 257
+        width: 17
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c5a2fa6e41f94cada8416cff8d66b
+      internalID: 1731358150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_285
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 252
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848dda8b11ebc844981411e8fc5d6952
+      internalID: -196741965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_286
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 252
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5687917203b100944819213776b13fd8
+      internalID: 609234786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_287
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 146
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47853fa49062aee44a0368098ccce05f
+      internalID: -1175518975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_288
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 220
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163f344af9432c146bc94239ad242aa1
+      internalID: -1192516586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_289
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 205
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76116d8ecc562947a5413dd3ee64b79
+      internalID: 1642406522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_290
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 85
+        width: 12
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89080c1fc241a2346ae98286c558f8ff
+      internalID: -808106010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_291
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 216
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a143c869a7b1ff4dbab834e5b4f6c54
+      internalID: 348520093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_292
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 204
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f790c751115d614fa3f7ccb3a3ec211
+      internalID: 1293624020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_293
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 203
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c1c99bcfabb546b8b52c659046dd7
+      internalID: -1549182450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_294
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 204
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eaf85b01eae004ab883d9625f954ef
+      internalID: 1240212721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_295
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9c09b75ded55469b4227744b881be
+      internalID: 734055177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_296
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 186
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac147b52a25052c47baf471ce628fce9
+      internalID: -450816227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_297
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 72
+        width: 11
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e9c43dd2fc42488733a825ea50f97
+      internalID: -207866691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_298
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 131
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224218e98b580a2458a8eb8053f561a9
+      internalID: 1814739878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_299
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 130
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d315d2b643997545ae90ad7c30e0d64
+      internalID: 397991993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_300
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 130
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7bed3b0730bf341b40cfdf56a819f1
+      internalID: -352565906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_301
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8
+        width: 9
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb292251a0ea8442a382bcf05534549
+      internalID: -280108793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_302
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 28
+        width: 19
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faffd0744a71934b849128a9b6a0988
+      internalID: 1556488779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_303
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 26
+        width: 6
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52b9246b012d546acc02ae34e7f489
+      internalID: 34647094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechAssets_304
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 9
+        width: 24
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b9dcf5820d6834c92cbf2a9b2e5930
+      internalID: 235834612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MechAssets_0: -1966427604
+      MechAssets_1: 2123745725
+      MechAssets_10: -1002205265
+      MechAssets_100: 1682347009
+      MechAssets_101: 2017494348
+      MechAssets_102: 1768515620
+      MechAssets_103: 1585637838
+      MechAssets_104: 434324018
+      MechAssets_105: -810380532
+      MechAssets_106: 1732769576
+      MechAssets_107: 1544434316
+      MechAssets_108: -698552899
+      MechAssets_109: -137286140
+      MechAssets_11: 1458694786
+      MechAssets_110: -525542871
+      MechAssets_111: 1829296026
+      MechAssets_112: 596497809
+      MechAssets_113: 1183474770
+      MechAssets_114: -1932671886
+      MechAssets_115: 519049389
+      MechAssets_116: 711640948
+      MechAssets_117: -1198603878
+      MechAssets_118: 1451518682
+      MechAssets_119: 794415901
+      MechAssets_12: 46228770
+      MechAssets_120: 1262290462
+      MechAssets_121: -1222206492
+      MechAssets_122: -617063379
+      MechAssets_123: -574426392
+      MechAssets_124: -709064288
+      MechAssets_125: -1799920413
+      MechAssets_126: -1584739432
+      MechAssets_127: -1396077889
+      MechAssets_128: 1837784665
+      MechAssets_129: -969311272
+      MechAssets_13: 1331454961
+      MechAssets_130: -1331002365
+      MechAssets_131: 1855271691
+      MechAssets_132: -1209846519
+      MechAssets_133: 26334460
+      MechAssets_134: 1049707022
+      MechAssets_135: 1822893928
+      MechAssets_136: 1088196914
+      MechAssets_137: 1689100282
+      MechAssets_138: -272554447
+      MechAssets_139: 195639414
+      MechAssets_14: -1168568918
+      MechAssets_140: -1756235169
+      MechAssets_141: -1768818722
+      MechAssets_142: 1640587440
+      MechAssets_143: 312451411
+      MechAssets_144: -329661875
+      MechAssets_145: -62512878
+      MechAssets_146: 2041927974
+      MechAssets_147: 291587783
+      MechAssets_148: -361129747
+      MechAssets_149: 526258305
+      MechAssets_15: 228843484
+      MechAssets_150: 1955603157
+      MechAssets_151: -134898991
+      MechAssets_152: 1640168107
+      MechAssets_153: -879181158
+      MechAssets_154: -1771443553
+      MechAssets_155: 1448939430
+      MechAssets_156: 376842586
+      MechAssets_157: 1499482726
+      MechAssets_158: -621179192
+      MechAssets_159: 1704412312
+      MechAssets_16: 906635127
+      MechAssets_160: 447091975
+      MechAssets_161: -504584946
+      MechAssets_162: 978864578
+      MechAssets_163: 915193455
+      MechAssets_164: -781498346
+      MechAssets_165: -1495280187
+      MechAssets_166: -2005308750
+      MechAssets_167: -1418301405
+      MechAssets_168: 1707496040
+      MechAssets_169: -1830499329
+      MechAssets_17: -1441905524
+      MechAssets_170: 408539882
+      MechAssets_171: -758901330
+      MechAssets_172: -1196383944
+      MechAssets_173: -298386254
+      MechAssets_174: -30657339
+      MechAssets_175: 858891090
+      MechAssets_176: -1793672500
+      MechAssets_177: 268325159
+      MechAssets_178: -131331992
+      MechAssets_179: -742726758
+      MechAssets_18: 833024388
+      MechAssets_180: -932269661
+      MechAssets_181: 1283641980
+      MechAssets_182: 790929632
+      MechAssets_183: 1180813974
+      MechAssets_184: 37567498
+      MechAssets_185: -701645484
+      MechAssets_186: -507377145
+      MechAssets_187: -1337848356
+      MechAssets_188: 1009239494
+      MechAssets_189: -399164270
+      MechAssets_19: -255098626
+      MechAssets_190: 1072239204
+      MechAssets_191: -2090762071
+      MechAssets_192: 1835936335
+      MechAssets_193: -165341297
+      MechAssets_194: 1386356793
+      MechAssets_195: -1699436801
+      MechAssets_196: 221249784
+      MechAssets_197: 1407173491
+      MechAssets_198: -1061984359
+      MechAssets_199: -1838456597
+      MechAssets_2: -2097088105
+      MechAssets_20: -775959874
+      MechAssets_200: -609656514
+      MechAssets_201: 2078471729
+      MechAssets_202: -1207925504
+      MechAssets_203: -308646697
+      MechAssets_204: -1445856783
+      MechAssets_205: -1631637666
+      MechAssets_206: 478062157
+      MechAssets_207: -1587627413
+      MechAssets_208: 1543634792
+      MechAssets_209: -926300560
+      MechAssets_21: -587903347
+      MechAssets_210: -1104091090
+      MechAssets_211: -2131388525
+      MechAssets_212: -562605816
+      MechAssets_213: 919399752
+      MechAssets_214: 1457546184
+      MechAssets_215: -504626686
+      MechAssets_216: -1758267625
+      MechAssets_217: 529585519
+      MechAssets_218: 461500089
+      MechAssets_219: -970518242
+      MechAssets_22: 2054733865
+      MechAssets_220: 1676344312
+      MechAssets_221: -509336818
+      MechAssets_222: 1928207246
+      MechAssets_223: -2050168359
+      MechAssets_224: 2004197494
+      MechAssets_225: -837979285
+      MechAssets_226: 2097404122
+      MechAssets_227: -1282209936
+      MechAssets_228: -78553303
+      MechAssets_229: -2133791748
+      MechAssets_23: 997594881
+      MechAssets_230: 66427831
+      MechAssets_231: -1989122670
+      MechAssets_232: 2139262412
+      MechAssets_233: -1936345198
+      MechAssets_234: 1878344033
+      MechAssets_235: 1786598070
+      MechAssets_236: 832264999
+      MechAssets_237: -1969342712
+      MechAssets_238: -1300950987
+      MechAssets_239: 1652008799
+      MechAssets_24: -323186401
+      MechAssets_240: -1819332981
+      MechAssets_241: -530004478
+      MechAssets_242: 2083410294
+      MechAssets_243: 1899207525
+      MechAssets_244: 479645185
+      MechAssets_245: -1246566224
+      MechAssets_246: 860899102
+      MechAssets_247: 2030597709
+      MechAssets_248: 86887528
+      MechAssets_249: 2132798912
+      MechAssets_25: -764892153
+      MechAssets_250: 1484643172
+      MechAssets_251: 732932683
+      MechAssets_252: -1829416737
+      MechAssets_253: 1552490280
+      MechAssets_254: 755843492
+      MechAssets_255: -1198482890
+      MechAssets_256: 1714456009
+      MechAssets_257: 170275209
+      MechAssets_258: -2007730596
+      MechAssets_259: -300363292
+      MechAssets_26: -994139487
+      MechAssets_260: 1498242342
+      MechAssets_261: 801439513
+      MechAssets_262: -1734909752
+      MechAssets_263: -2122259680
+      MechAssets_264: 1854376907
+      MechAssets_265: -1891737895
+      MechAssets_266: -1035773469
+      MechAssets_267: 85186684
+      MechAssets_268: -1945648234
+      MechAssets_269: -622912329
+      MechAssets_27: 1734155777
+      MechAssets_270: 1365545110
+      MechAssets_271: -943814407
+      MechAssets_272: -1952917864
+      MechAssets_273: 1250583727
+      MechAssets_274: 950217474
+      MechAssets_275: -559184623
+      MechAssets_276: 1472184103
+      MechAssets_277: 1367398727
+      MechAssets_278: 413471170
+      MechAssets_279: -1146579784
+      MechAssets_28: 690756210
+      MechAssets_280: 2036186089
+      MechAssets_281: 775967569
+      MechAssets_282: -1510828782
+      MechAssets_283: 1148662270
+      MechAssets_284: 1731358150
+      MechAssets_285: -196741965
+      MechAssets_286: 609234786
+      MechAssets_287: -1175518975
+      MechAssets_288: -1192516586
+      MechAssets_289: 1642406522
+      MechAssets_29: 1763929584
+      MechAssets_290: -808106010
+      MechAssets_291: 348520093
+      MechAssets_292: 1293624020
+      MechAssets_293: -1549182450
+      MechAssets_294: 1240212721
+      MechAssets_295: 734055177
+      MechAssets_296: -450816227
+      MechAssets_297: -207866691
+      MechAssets_298: 1814739878
+      MechAssets_299: 397991993
+      MechAssets_3: -1234988707
+      MechAssets_30: -1730797986
+      MechAssets_300: -352565906
+      MechAssets_301: -280108793
+      MechAssets_302: 1556488779
+      MechAssets_303: 34647094
+      MechAssets_304: 235834612
+      MechAssets_31: 1829750670
+      MechAssets_32: -271477233
+      MechAssets_33: 1842962898
+      MechAssets_34: 1652871276
+      MechAssets_35: 619402568
+      MechAssets_36: -436421189
+      MechAssets_37: 1433038826
+      MechAssets_38: 2017617185
+      MechAssets_39: -184658367
+      MechAssets_4: 1765984116
+      MechAssets_40: -709735218
+      MechAssets_41: 555644786
+      MechAssets_42: -2109355117
+      MechAssets_43: -345320645
+      MechAssets_44: -1770645923
+      MechAssets_45: -1814859531
+      MechAssets_46: -2128908903
+      MechAssets_47: 774607746
+      MechAssets_48: -78279594
+      MechAssets_49: 408265008
+      MechAssets_5: 2020867797
+      MechAssets_50: 1540355947
+      MechAssets_51: -899096250
+      MechAssets_52: 2063414632
+      MechAssets_53: -1165019851
+      MechAssets_54: -1403367495
+      MechAssets_55: 1061857540
+      MechAssets_56: 983966456
+      MechAssets_57: 864305095
+      MechAssets_58: 971892981
+      MechAssets_59: 1714546827
+      MechAssets_6: -1436159768
+      MechAssets_60: 1448702761
+      MechAssets_61: 1614733354
+      MechAssets_62: 1854675746
+      MechAssets_63: -1596922481
+      MechAssets_64: 413111236
+      MechAssets_65: -509073036
+      MechAssets_66: 1645392326
+      MechAssets_67: 1038740328
+      MechAssets_68: -89717413
+      MechAssets_69: -823758783
+      MechAssets_7: -764024749
+      MechAssets_70: 531432885
+      MechAssets_71: -1765834444
+      MechAssets_72: 644681833
+      MechAssets_73: 846423481
+      MechAssets_74: -965723154
+      MechAssets_75: 1080790711
+      MechAssets_76: 1450182672
+      MechAssets_77: -1355113094
+      MechAssets_78: 1652462806
+      MechAssets_79: 587736205
+      MechAssets_8: -759546226
+      MechAssets_80: -27986141
+      MechAssets_81: -746006143
+      MechAssets_82: -407146367
+      MechAssets_83: -131939468
+      MechAssets_84: -1959972911
+      MechAssets_85: 1005757078
+      MechAssets_86: 788543948
+      MechAssets_87: -652047780
+      MechAssets_88: 1213193099
+      MechAssets_89: 874323571
+      MechAssets_9: -1446671575
+      MechAssets_90: -9735771
+      MechAssets_91: 2040860777
+      MechAssets_92: -618805431
+      MechAssets_93: 2081463217
+      MechAssets_94: -1075722067
+      MechAssets_95: -5552080
+      MechAssets_96: -804938614
+      MechAssets_97: 77592327
+      MechAssets_98: 1103583608
+      MechAssets_99: -1591723629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

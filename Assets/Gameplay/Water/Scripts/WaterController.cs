@@ -7,6 +7,7 @@ public class WaterController : MonoBehaviour
     private float _moveSpeed = 5f;
     private Rigidbody2D _rb;
     private float _jumpForce = 6f;
+    [SerializeField]private LayerMask groundLayer;
     private bool _isGround = false;
     private void Start()
     {
@@ -15,6 +16,7 @@ public class WaterController : MonoBehaviour
 
     private void Update()
     {
+        _isGround = Physics2D.Raycast(transform.position, Vector2.down, 1f, groundLayer);
         Movement();
         Jump();
     }
@@ -35,14 +37,6 @@ public class WaterController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.W) && _isGround)
         {
             _rb.AddForce(new Vector2(0, _jumpForce), ForceMode2D.Impulse);
-            _isGround = false;
-        }
-    }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            _isGround = true;
         }
     }
 }
