@@ -8,8 +8,8 @@ public class PanelButtonController : MonoBehaviour
     public Vector2 targetPosition;
     public float moveSpeed = 5f;
 
-    public Vector2 originalPosition;
-    private bool isMoving = false;
+    private Vector2 originalPosition;
+
     void Start()
     {
         originalPosition = panel.position;
@@ -17,26 +17,14 @@ public class PanelButtonController : MonoBehaviour
 
     void Update()
     {
-        if (_buttonController._currentState == ButtonController.ButtonState.Inactive)
-        {
-            isMoving = !isMoving;
-        }
-
-        if (isMoving)
+        if (_buttonController._currentState == ButtonController.ButtonState.Active)
         {
             panel.position = Vector3.MoveTowards(panel.position, targetPosition, moveSpeed * Time.deltaTime);
-            if (Vector2.Distance(panel.position, targetPosition) < 0.01f)
-            {
-                isMoving = false;
-            }
         }
         else
         {
             panel.position = Vector3.MoveTowards(panel.position, originalPosition, moveSpeed * Time.deltaTime);
-            if (Vector2.Distance(panel.position, originalPosition) < 0.01f)
-            {
-                isMoving = true;
-            }
         }
     }
 }
+

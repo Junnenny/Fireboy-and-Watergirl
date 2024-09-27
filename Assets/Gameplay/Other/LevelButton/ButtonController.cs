@@ -16,7 +16,7 @@ public class ButtonController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collider)
     {
-        if (collider.CompareTag("WaterCharacter") && !isPressed)
+        if (!isPressed)
         {
             isPressed = true;
             _currentState = ButtonState.Active;
@@ -26,7 +26,7 @@ public class ButtonController : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collider)
     {
-        if (collider.CompareTag("WaterCharacter") && isPressed)
+        if (isPressed)
         {
             isPressed = false;
             _currentState = ButtonState.Inactive;
