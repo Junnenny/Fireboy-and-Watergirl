@@ -85,7 +85,7 @@ public class GameMenu : MonoBehaviour
 
     private void SelectLevel()
     {
-        Debug.Log("Выбор уровня"); // добавить ссылку на сцену с уровнями
+        SceneManager.LoadScene("LVLs");
     }
 
     private void OpenSettings()

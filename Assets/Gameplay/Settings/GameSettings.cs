@@ -14,6 +14,8 @@ public class GameSettings : MonoBehaviour
 
     private void Start()
     {
+        Time.timeScale = 1f;
+
         if (settingsCanvas != null)
         {
             settingsCanvas.SetActive(false);

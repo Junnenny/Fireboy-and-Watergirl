@@ -3,6 +3,7 @@ using UnityEngine;
 public class WaterDoor : MonoBehaviour
 {
     private Animator animator;
+    public bool _onDoor = false;
 
     void Start()
     {
@@ -15,7 +16,14 @@ public class WaterDoor : MonoBehaviour
         {
             animator.SetTrigger("OpenDoor");
             animator.SetBool("OpenDoor", true);
-
+        }
+    }
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.CompareTag("WaterCharacter"))
+        {
+            _onDoor = true;
+            Debug.Log("вотер стоит");
         }
     }
 
@@ -26,6 +34,7 @@ public class WaterDoor : MonoBehaviour
         {
             animator.SetBool("OpenDoor", false);
             animator.SetTrigger("CloseDoor");
+            _onDoor = false;
         }
     }
 }
