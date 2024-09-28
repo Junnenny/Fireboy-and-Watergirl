@@ -6,7 +6,7 @@ public class WaterController : MonoBehaviour
 {
     private float _moveSpeed = 5f;
     private Rigidbody2D _rb;
-    private float _jumpForce = 6f;
+    private float _jumpForce = 7f;
     [SerializeField]private LayerMask groundLayer;
     private bool _isGround = false;
     private void Start()

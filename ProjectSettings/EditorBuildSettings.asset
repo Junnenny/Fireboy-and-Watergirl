@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Gameplay/Scenes/2LVL.unity
     guid: 1c8ed6a4efb150247aa6a3cb076c13ab
+  - enabled: 1
+    path: Assets/Gameplay/Scenes/EndGame.unity
+    guid: a427cefd455a78d49b28b8b66d8ec27f
   m_configObjects: {}
