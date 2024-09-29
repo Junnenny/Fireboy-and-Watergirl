@@ -4,6 +4,7 @@ using TMPro;
 
 public class Settings : MonoBehaviour
 {
+    private Animator _animator;
     public Slider volumeSlider;
     public TMP_Text volumeText;
     public Button exitGameButton;
@@ -15,6 +16,7 @@ public class Settings : MonoBehaviour
 
     private void Start()
     {
+        _animator = GetComponent<Animator>();
         if (settingsCanvas != null)
         {
             settingsCanvas.SetActive(false);
@@ -74,10 +76,13 @@ public class Settings : MonoBehaviour
             {
                 if (canvas.gameObject != settingsCanvas)
                 {
+                    _animator.SetTrigger("Close");
                     canvas.gameObject.SetActive(false);
+
                 }
             }
             settingsCanvas.SetActive(true);
+            _animator.SetTrigger("Open");
         }
         else
         {

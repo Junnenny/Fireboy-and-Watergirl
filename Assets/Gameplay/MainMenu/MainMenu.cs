@@ -4,18 +4,20 @@ using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
+    private Animator _animator;
     [SerializeField] private Button _playButton;
     [SerializeField] private Button _settingnsButton;
     [SerializeField] private Settings _settings;
 
     void Start()
     {
+        _animator = GetComponent<Animator>();
         _playButton.onClick.AddListener(LoadNextScene);
         _settingnsButton.onClick.AddListener(OpenSettings);
     }   
     public void LoadNextScene()
     {
-        SceneManager.LoadScene("1LVL");
+        SceneManager.LoadScene("LVLs");
     }
     public void OpenSettings()
     {
@@ -25,10 +27,13 @@ public class MainMenu : MonoBehaviour
             {
                 if (canvas.gameObject != _settings.settingsCanvas)
                 {
+                    _animator.SetTrigger("Close");
                     canvas.gameObject.SetActive(false);
                 }
             }
             _settings.settingsCanvas.SetActive(true);
+            _animator.SetTrigger("Open");
+
         }
         else
         {
