@@ -7,9 +7,13 @@ public class FireController : MonoBehaviour
     private float _jumpForce = 7f;
     [SerializeField] private LayerMask groundLayer;
     private bool _isGround = false;
+
+    private AudioSource _audioSource;
+
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -36,6 +40,7 @@ public class FireController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.UpArrow) && _isGround)
         {
             _rb.AddForce(new Vector2(0, _jumpForce), ForceMode2D.Impulse);
+            _audioSource.Play();
         }
     }
 }

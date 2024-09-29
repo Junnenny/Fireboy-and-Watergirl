@@ -7,11 +7,14 @@ public class WaterController : MonoBehaviour
     private float _moveSpeed = 5f;
     private Rigidbody2D _rb;
     private float _jumpForce = 7f;
-    [SerializeField]private LayerMask groundLayer;
+    [SerializeField] private LayerMask groundLayer;
     private bool _isGround = false;
+
+    private AudioSource _audioSource;
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -37,6 +40,7 @@ public class WaterController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.W) && _isGround)
         {
             _rb.AddForce(new Vector2(0, _jumpForce), ForceMode2D.Impulse);
+            _audioSource.Play();
         }
     }
 }
