@@ -4,6 +4,8 @@ using System;
 
 public class GameCanvas : MonoBehaviour
 {
+    private Animator _animator;
+
     public TMP_Text levelTimeText;
     public TMP_Text fireCrystalText;
     public TMP_Text waterCrystalText;
@@ -16,6 +18,7 @@ public class GameCanvas : MonoBehaviour
 
     private void Start()
     {
+        _animator = GetComponent<Animator>();
         _levelTime = 0f;
         _fireCrystalQuantity = 0;
         _waterCrystalQuantity = 0;

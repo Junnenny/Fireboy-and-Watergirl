@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -11,18 +12,16 @@ public class LevelManager : MonoBehaviour
     {
         _animator = GetComponent<Animator>();
         _animator.SetTrigger("Open");
-        _firstLvl.onClick.AddListener(StartFirstLevel);
-        _secondLvl.onClick.AddListener(StartSecondLevel);
+        _firstLvl.onClick.AddListener(() => StartCoroutine(StartLevel("1LVL")));
+        _secondLvl.onClick.AddListener(() => StartCoroutine(StartLevel("2LVL")));
     }
 
-    public void StartFirstLevel()
+    private IEnumerator StartLevel(string levelName)
     {
         _animator.SetTrigger("Close");
-        SceneManager.LoadScene("1LVL");
-    }
-    public void StartSecondLevel()
-    {
-        _animator.SetTrigger("Close");
-        SceneManager.LoadScene("2LVL");
+
+        yield return new WaitForSeconds(_animator.GetCurrentAnimatorStateInfo(0).length);
+
+        SceneManager.LoadScene(levelName);
     }
 }
