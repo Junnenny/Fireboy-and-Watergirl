@@ -10,6 +10,8 @@ public class LevelManager : MonoBehaviour
     [SerializeField] private Button _secondLvl;
     private void Start()
     {
+        Time.timeScale = 1f;
+
         _animator = GetComponent<Animator>();
         _animator.SetTrigger("Open");
         _firstLvl.onClick.AddListener(() => StartCoroutine(StartLevel("1LVL")));

@@ -1,25 +1,82 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class AudioManager : MonoBehaviour
 {
-    public AudioClip[] musicClips;
+    public AudioClip mainMenuMusic;
+    public AudioClip levelMusic;
+
     private AudioSource audioSource;
-    private int currentClipIndex = 0;
+    private string currentScene;
+
+    private void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
 
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
-        DontDestroyOnLoad(gameObject);
-        PlayNextClip();
+        currentScene = SceneManager.GetActiveScene().name;
+        PlayMusicForCurrentScene();
     }
 
-    void PlayNextClip()
+    void Update()
     {
-        if (musicClips.Length == 0) return;
+        if (currentScene != SceneManager.GetActiveScene().name)
+        {
+            currentScene = SceneManager.GetActiveScene().name;
+            PlayMusicForCurrentScene();
+        }
 
-        audioSource.clip = musicClips[currentClipIndex];
+        if (!audioSource.isPlaying)
+        {
+            PlayCurrentMusic();
+        }
+    }
+
+    private void PlayMusicForCurrentScene()
+    {
+        string sceneName = SceneManager.GetActiveScene().name;
+
+        switch (sceneName)
+        {
+            case "MainMenu":
+                if (audioSource.clip != mainMenuMusic)
+                {
+                    audioSource.clip = mainMenuMusic;
+                    PlayCurrentMusic();
+                }
+                break;
+            case "LVLs":
+                if (audioSource.clip != mainMenuMusic)
+                {
+                    audioSource.clip = mainMenuMusic;
+                    PlayCurrentMusic();
+                }
+                break;
+            case "1LVL":
+            case "2LVL":
+                if (audioSource.clip != levelMusic)
+                {
+                    audioSource.clip = levelMusic;
+                    PlayCurrentMusic();
+                }
+                break;
+            case "EndGame":
+                if (audioSource.clip != mainMenuMusic)
+                {
+                    audioSource.clip = mainMenuMusic;
+                    PlayCurrentMusic();
+                }
+                break;
+            default:
+                break;
+        }
+    }
+
+    private void PlayCurrentMusic()
+    {
         audioSource.Play();
-        currentClipIndex = (currentClipIndex + 1) % musicClips.Length;
-        Invoke("PlayNextClip", audioSource.clip.length);
     }
 }

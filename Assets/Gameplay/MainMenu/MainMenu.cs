@@ -11,6 +11,7 @@ public class MainMenu : MonoBehaviour
 
     void Start()
     {
+        Time.timeScale = 1f;
         _animator = GetComponent<Animator>();
         _playButton.onClick.AddListener(LoadNextScene);
         _settingnsButton.onClick.AddListener(OpenSettings);
