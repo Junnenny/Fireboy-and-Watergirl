@@ -16,6 +16,7 @@ public class Settings : MonoBehaviour
 
     private void Start()
     {
+        Time.timeScale = 1f;
         _animator = GetComponent<Animator>();
         if (settingsCanvas != null)
         {
