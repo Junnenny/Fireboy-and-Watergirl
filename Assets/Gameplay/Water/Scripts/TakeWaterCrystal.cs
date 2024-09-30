@@ -9,7 +9,6 @@ public class TakeWaterCrystal : MonoBehaviour
         if (collision.CompareTag("WaterCharacter"))
         {
             gameCanvas.AddWaterCrystal();
-
             Destroy(gameObject);
         }
     }
